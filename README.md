@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jy017 a.k.a. Jyothis A Narayanan
-- 👀 I’m interested in coding..aspiring mern stack developer
-- 🌱 I’m currently learning html, css, python, javaScript..
+- 👀 I’m interested in coding..aspiring frontend developer
+- 🌱 I’m currently learning html, css, python, javaScript, reactjs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ajyothisnit@gmail.com
 - 
